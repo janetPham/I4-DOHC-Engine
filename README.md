@@ -8,12 +8,12 @@ Welcome to my I4 DOHC Engine project corner! This is a learning journey where I'
 * Free-hand Technical Drawings: sketching key working components of the engine 
 * 3D Models in SOLIDWORKS: creating parts and assemblies using SOLIDWORKS from the technical drawings 
 
-# Motivation 
+## Motivation 
 
 * Interest in cars and powertrain systems
 * Worked three 4-month co-op terms in automotive manufacturing
 
-# Project Goals
+## Project Goals
 
 * Understand IC engines in a technical, historical, and socioeconomic aspect
 * Understand how individual engine parts work and how each component drives the engine system as a whole
@@ -21,30 +21,30 @@ Welcome to my I4 DOHC Engine project corner! This is a learning journey where I'
 * Improve visualization and free-hand technical sketching skills
 * Improve 3D modelling skills using SOLIDWORKS 
 
-# Deliverables
+## Deliverables
 
 * Report
 * Drawings
 * 3D models
 
-# Tools Used
+## Tools Used
 
 * Research and study 
 * Pencil and paper for drawings
 * SOLIDWORKS 
 
-# Challenges
+## Challenges
 
 * Difficulty visualizing engine parts and assemblies due to having never seen an engine in real life
 * Discrepancies between technical drawings ie. measurements of one part not fully accounted for design of other part which were fixed during CAD
 
-# Future Work
+## Future Work
 
 * Design and material study / FEA 
 * Motion study
 * 3D printing
 * Cost and performance efficiency real-world modelling 
 
-# For You
+## For You
 
 Feel free to read through the report as well as download parts and assemblies!
