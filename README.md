@@ -25,7 +25,7 @@ Welcome to my I4 DOHC Engine project corner! This is a learning journey where I'
 
 * Report
 * Drawings
-* 3d models
+* 3D models
 
 # Tools Used
 
