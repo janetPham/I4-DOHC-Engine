@@ -4,7 +4,7 @@
 
 Welcome to my I4 DOHC Engine project corner! This is a learning journey where I'm exploring the inner workings of a 4-cylinder, dual overhead camshaft (DOHC) internal combustion (IC) engine through:
 
-* Written Report: detailing how an engine operates, following how technological advancements helped 
+* Written Report: detailing how an engine operates, following how technological advancements helped develop the IC engine 
 * Free-hand Technical Drawings: sketching key working components of the engine 
 * 3D Models in SOLIDWORKS: creating parts and assemblies using SOLIDWORKS from the technical drawings 
 
