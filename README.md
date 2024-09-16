@@ -36,11 +36,11 @@ Welcome to my I4 DOHC Engine project corner! This is a learning journey where I'
 # Challenges
 
 * Difficulty visualizing engine parts and assemblies due to having never seen an engine in real life
-* Discrepancies between technical drawings ie. measurements of one part not fully accounted for design of other part
+* Discrepancies between technical drawings ie. measurements of one part not fully accounted for design of other part which were fixed during CAD
 
 # Future Work
 
-* Design study / FEA 
+* Design and material study / FEA 
 * Motion study
 * 3D printing
 * Cost and performance efficiency real-world modelling 
